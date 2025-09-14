@@ -18,5 +18,6 @@ Helps understand concepts, solve math/statistics problems, and practice exam que
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ai-study-buddy.git
+   git clone [https://github.com/YOUR_USERNAME/ai-study-buddy.git](https://github.com/RAGHAVENDRARAO7/-AI-Study-Buddy/commits?author=RAGHAVENDRARAO7)
    cd ai-study-buddy
+
