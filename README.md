@@ -20,10 +20,13 @@ Helps understand concepts, solve math/statistics problems, and practice exam que
    ```bash
    git clone [https://github.com/YOUR_USERNAME/ai-study-buddy.git](https://github.com/RAGHAVENDRARAO7/-AI-Study-Buddy/commits?author=RAGHAVENDRARAO7)
    cd ai-study-buddy
+2.Live web
+https://ai-study-buddy7.streamlit.app
 
 <img width="275" height="496" alt="image" src="https://github.com/user-attachments/assets/d740c232-3705-483c-89e9-d01e7e97a06e" />
 
 
 <img width="959" height="502" alt="image" src="https://github.com/user-attachments/assets/0164eb50-1c73-4d50-a468-8eb4235e23b3" />
+
 
 
